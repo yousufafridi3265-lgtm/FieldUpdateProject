@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Configurations>
+	<EncompassInfo>
+		<ApiServer>https://concept.api.elliemae.com</ApiServer>
+		<ClientId>hjqqg76</ClientId>
+		<ClientSecret>07CKZqZ5#0atmzTJDGwxAk!SgL6yauqDkCYYopTE6wzV0X2A#IhbKCfo7AWs825B</ClientSecret>
+		<InstanceId>TEBE11165448</InstanceId>
+		<grant_type>client_credentials</grant_type>
+		<Scope>lp</Scope>		
+	</EncompassInfo>
+	
+	<FieldUpdate>
+		<Filters>
+			<![CDATA[
+				{
+  "filter": {
+    "canonicalName": "Loan.LoanNumber",
+    "value": "1002511CUS1796",
+    "matchType": "exact"
+  },
+  "fields": [
+    "Loan.LoanNumber"
+    
+  ]
+}
+			]]>
+		</Filters>
+		<Fields id="4002" value="Waleed"/>		
+	</FieldUpdate>
+
+</Configurations>
+
+
