@@ -2,12 +2,12 @@
 
 <Configurations>
 	<EncompassInfo>
-		<ApiServer>https://concept.api.elliemae.com</ApiServer>
-		<ClientId>hjqqg76</ClientId>
-		<ClientSecret>07CKZqZ5#0atmzTJDGwxAk!SgL6yauqDkCYYopTE6wzV0X2A#IhbKCfo7AWs825B</ClientSecret>
+		<ApiServer>https://yyyyyyyyyyyyyyyyyy.elliemae.com</ApiServer>
+		<ClientId>yyyy</ClientId>
+		<ClientSecret>yyyyyyyyyy825B</ClientSecret>
 		<InstanceId>TEBE11165448</InstanceId>
-		<grant_type>client_credentials</grant_type>
-		<Scope>lp</Scope>		
+		<grant_type>yyyyyyyyyyy</grant_type>
+		<Scope>yyyy</Scope>		
 	</EncompassInfo>
 	
 	<FieldUpdate>
